@@ -1,0 +1,13 @@
+C:\proj\aspnet\modulo5\third\third\bin\Debug\netcoreapp3.1\third.exe
+C:\proj\aspnet\modulo5\third\third\bin\Debug\netcoreapp3.1\third.deps.json
+C:\proj\aspnet\modulo5\third\third\bin\Debug\netcoreapp3.1\third.runtimeconfig.json
+C:\proj\aspnet\modulo5\third\third\bin\Debug\netcoreapp3.1\third.runtimeconfig.dev.json
+C:\proj\aspnet\modulo5\third\third\bin\Debug\netcoreapp3.1\third.dll
+C:\proj\aspnet\modulo5\third\third\bin\Debug\netcoreapp3.1\third.pdb
+C:\proj\aspnet\modulo5\third\third\obj\Debug\netcoreapp3.1\third.csprojAssemblyReference.cache
+C:\proj\aspnet\modulo5\third\third\obj\Debug\netcoreapp3.1\third.AssemblyInfoInputs.cache
+C:\proj\aspnet\modulo5\third\third\obj\Debug\netcoreapp3.1\third.AssemblyInfo.cs
+C:\proj\aspnet\modulo5\third\third\obj\Debug\netcoreapp3.1\third.csproj.CoreCompileInputs.cache
+C:\proj\aspnet\modulo5\third\third\obj\Debug\netcoreapp3.1\third.dll
+C:\proj\aspnet\modulo5\third\third\obj\Debug\netcoreapp3.1\third.pdb
+C:\proj\aspnet\modulo5\third\third\obj\Debug\netcoreapp3.1\third.genruntimeconfig.cache

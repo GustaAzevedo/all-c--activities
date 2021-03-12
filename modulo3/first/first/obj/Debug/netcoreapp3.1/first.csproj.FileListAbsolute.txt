@@ -1,0 +1,13 @@
+C:\proj\aspnet\treino\first\first\bin\Debug\netcoreapp3.1\first.exe
+C:\proj\aspnet\treino\first\first\bin\Debug\netcoreapp3.1\first.deps.json
+C:\proj\aspnet\treino\first\first\bin\Debug\netcoreapp3.1\first.runtimeconfig.json
+C:\proj\aspnet\treino\first\first\bin\Debug\netcoreapp3.1\first.runtimeconfig.dev.json
+C:\proj\aspnet\treino\first\first\bin\Debug\netcoreapp3.1\first.dll
+C:\proj\aspnet\treino\first\first\bin\Debug\netcoreapp3.1\first.pdb
+C:\proj\aspnet\treino\first\first\obj\Debug\netcoreapp3.1\first.csprojAssemblyReference.cache
+C:\proj\aspnet\treino\first\first\obj\Debug\netcoreapp3.1\first.AssemblyInfoInputs.cache
+C:\proj\aspnet\treino\first\first\obj\Debug\netcoreapp3.1\first.AssemblyInfo.cs
+C:\proj\aspnet\treino\first\first\obj\Debug\netcoreapp3.1\first.csproj.CoreCompileInputs.cache
+C:\proj\aspnet\treino\first\first\obj\Debug\netcoreapp3.1\first.dll
+C:\proj\aspnet\treino\first\first\obj\Debug\netcoreapp3.1\first.pdb
+C:\proj\aspnet\treino\first\first\obj\Debug\netcoreapp3.1\first.genruntimeconfig.cache

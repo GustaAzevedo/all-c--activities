@@ -1,0 +1,13 @@
+C:\proj\aspnet\modulo2\seccond\seccond\bin\Debug\netcoreapp3.1\seccond.exe
+C:\proj\aspnet\modulo2\seccond\seccond\bin\Debug\netcoreapp3.1\seccond.deps.json
+C:\proj\aspnet\modulo2\seccond\seccond\bin\Debug\netcoreapp3.1\seccond.runtimeconfig.json
+C:\proj\aspnet\modulo2\seccond\seccond\bin\Debug\netcoreapp3.1\seccond.runtimeconfig.dev.json
+C:\proj\aspnet\modulo2\seccond\seccond\bin\Debug\netcoreapp3.1\seccond.dll
+C:\proj\aspnet\modulo2\seccond\seccond\bin\Debug\netcoreapp3.1\seccond.pdb
+C:\proj\aspnet\modulo2\seccond\seccond\obj\Debug\netcoreapp3.1\seccond.csprojAssemblyReference.cache
+C:\proj\aspnet\modulo2\seccond\seccond\obj\Debug\netcoreapp3.1\seccond.AssemblyInfoInputs.cache
+C:\proj\aspnet\modulo2\seccond\seccond\obj\Debug\netcoreapp3.1\seccond.AssemblyInfo.cs
+C:\proj\aspnet\modulo2\seccond\seccond\obj\Debug\netcoreapp3.1\seccond.csproj.CoreCompileInputs.cache
+C:\proj\aspnet\modulo2\seccond\seccond\obj\Debug\netcoreapp3.1\seccond.dll
+C:\proj\aspnet\modulo2\seccond\seccond\obj\Debug\netcoreapp3.1\seccond.pdb
+C:\proj\aspnet\modulo2\seccond\seccond\obj\Debug\netcoreapp3.1\seccond.genruntimeconfig.cache
