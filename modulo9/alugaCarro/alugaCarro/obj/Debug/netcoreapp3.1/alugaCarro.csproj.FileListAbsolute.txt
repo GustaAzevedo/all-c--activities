@@ -1,0 +1,13 @@
+C:\proj\aspnet\modulo9\alugaCarro\alugaCarro\bin\Debug\netcoreapp3.1\alugaCarro.exe
+C:\proj\aspnet\modulo9\alugaCarro\alugaCarro\bin\Debug\netcoreapp3.1\alugaCarro.deps.json
+C:\proj\aspnet\modulo9\alugaCarro\alugaCarro\bin\Debug\netcoreapp3.1\alugaCarro.runtimeconfig.json
+C:\proj\aspnet\modulo9\alugaCarro\alugaCarro\bin\Debug\netcoreapp3.1\alugaCarro.runtimeconfig.dev.json
+C:\proj\aspnet\modulo9\alugaCarro\alugaCarro\bin\Debug\netcoreapp3.1\alugaCarro.dll
+C:\proj\aspnet\modulo9\alugaCarro\alugaCarro\bin\Debug\netcoreapp3.1\alugaCarro.pdb
+C:\proj\aspnet\modulo9\alugaCarro\alugaCarro\obj\Debug\netcoreapp3.1\alugaCarro.csprojAssemblyReference.cache
+C:\proj\aspnet\modulo9\alugaCarro\alugaCarro\obj\Debug\netcoreapp3.1\alugaCarro.AssemblyInfoInputs.cache
+C:\proj\aspnet\modulo9\alugaCarro\alugaCarro\obj\Debug\netcoreapp3.1\alugaCarro.AssemblyInfo.cs
+C:\proj\aspnet\modulo9\alugaCarro\alugaCarro\obj\Debug\netcoreapp3.1\alugaCarro.csproj.CoreCompileInputs.cache
+C:\proj\aspnet\modulo9\alugaCarro\alugaCarro\obj\Debug\netcoreapp3.1\alugaCarro.dll
+C:\proj\aspnet\modulo9\alugaCarro\alugaCarro\obj\Debug\netcoreapp3.1\alugaCarro.pdb
+C:\proj\aspnet\modulo9\alugaCarro\alugaCarro\obj\Debug\netcoreapp3.1\alugaCarro.genruntimeconfig.cache

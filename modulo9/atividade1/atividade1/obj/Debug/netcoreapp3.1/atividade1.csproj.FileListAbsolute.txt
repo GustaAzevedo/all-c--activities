@@ -1,0 +1,13 @@
+C:\proj\aspnet\modulo9\atividade1\atividade1\bin\Debug\netcoreapp3.1\atividade1.exe
+C:\proj\aspnet\modulo9\atividade1\atividade1\bin\Debug\netcoreapp3.1\atividade1.deps.json
+C:\proj\aspnet\modulo9\atividade1\atividade1\bin\Debug\netcoreapp3.1\atividade1.runtimeconfig.json
+C:\proj\aspnet\modulo9\atividade1\atividade1\bin\Debug\netcoreapp3.1\atividade1.runtimeconfig.dev.json
+C:\proj\aspnet\modulo9\atividade1\atividade1\bin\Debug\netcoreapp3.1\atividade1.dll
+C:\proj\aspnet\modulo9\atividade1\atividade1\bin\Debug\netcoreapp3.1\atividade1.pdb
+C:\proj\aspnet\modulo9\atividade1\atividade1\obj\Debug\netcoreapp3.1\atividade1.csprojAssemblyReference.cache
+C:\proj\aspnet\modulo9\atividade1\atividade1\obj\Debug\netcoreapp3.1\atividade1.AssemblyInfoInputs.cache
+C:\proj\aspnet\modulo9\atividade1\atividade1\obj\Debug\netcoreapp3.1\atividade1.AssemblyInfo.cs
+C:\proj\aspnet\modulo9\atividade1\atividade1\obj\Debug\netcoreapp3.1\atividade1.csproj.CoreCompileInputs.cache
+C:\proj\aspnet\modulo9\atividade1\atividade1\obj\Debug\netcoreapp3.1\atividade1.dll
+C:\proj\aspnet\modulo9\atividade1\atividade1\obj\Debug\netcoreapp3.1\atividade1.pdb
+C:\proj\aspnet\modulo9\atividade1\atividade1\obj\Debug\netcoreapp3.1\atividade1.genruntimeconfig.cache

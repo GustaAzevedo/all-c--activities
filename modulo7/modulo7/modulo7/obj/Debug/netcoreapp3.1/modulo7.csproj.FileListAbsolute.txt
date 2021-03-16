@@ -1,0 +1,13 @@
+C:\proj\aspnet\modulo7\modulo7\modulo7\bin\Debug\netcoreapp3.1\modulo7.exe
+C:\proj\aspnet\modulo7\modulo7\modulo7\bin\Debug\netcoreapp3.1\modulo7.deps.json
+C:\proj\aspnet\modulo7\modulo7\modulo7\bin\Debug\netcoreapp3.1\modulo7.runtimeconfig.json
+C:\proj\aspnet\modulo7\modulo7\modulo7\bin\Debug\netcoreapp3.1\modulo7.runtimeconfig.dev.json
+C:\proj\aspnet\modulo7\modulo7\modulo7\bin\Debug\netcoreapp3.1\modulo7.dll
+C:\proj\aspnet\modulo7\modulo7\modulo7\bin\Debug\netcoreapp3.1\modulo7.pdb
+C:\proj\aspnet\modulo7\modulo7\modulo7\obj\Debug\netcoreapp3.1\modulo7.csprojAssemblyReference.cache
+C:\proj\aspnet\modulo7\modulo7\modulo7\obj\Debug\netcoreapp3.1\modulo7.AssemblyInfoInputs.cache
+C:\proj\aspnet\modulo7\modulo7\modulo7\obj\Debug\netcoreapp3.1\modulo7.AssemblyInfo.cs
+C:\proj\aspnet\modulo7\modulo7\modulo7\obj\Debug\netcoreapp3.1\modulo7.csproj.CoreCompileInputs.cache
+C:\proj\aspnet\modulo7\modulo7\modulo7\obj\Debug\netcoreapp3.1\modulo7.dll
+C:\proj\aspnet\modulo7\modulo7\modulo7\obj\Debug\netcoreapp3.1\modulo7.pdb
+C:\proj\aspnet\modulo7\modulo7\modulo7\obj\Debug\netcoreapp3.1\modulo7.genruntimeconfig.cache

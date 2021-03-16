@@ -1,0 +1,13 @@
+C:\proj\aspnet\modulo9\ExercicioUm\ExercicioUm\bin\Debug\netcoreapp3.1\ExercicioUm.exe
+C:\proj\aspnet\modulo9\ExercicioUm\ExercicioUm\bin\Debug\netcoreapp3.1\ExercicioUm.deps.json
+C:\proj\aspnet\modulo9\ExercicioUm\ExercicioUm\bin\Debug\netcoreapp3.1\ExercicioUm.runtimeconfig.json
+C:\proj\aspnet\modulo9\ExercicioUm\ExercicioUm\bin\Debug\netcoreapp3.1\ExercicioUm.runtimeconfig.dev.json
+C:\proj\aspnet\modulo9\ExercicioUm\ExercicioUm\bin\Debug\netcoreapp3.1\ExercicioUm.dll
+C:\proj\aspnet\modulo9\ExercicioUm\ExercicioUm\bin\Debug\netcoreapp3.1\ExercicioUm.pdb
+C:\proj\aspnet\modulo9\ExercicioUm\ExercicioUm\obj\Debug\netcoreapp3.1\ExercicioUm.csprojAssemblyReference.cache
+C:\proj\aspnet\modulo9\ExercicioUm\ExercicioUm\obj\Debug\netcoreapp3.1\ExercicioUm.AssemblyInfoInputs.cache
+C:\proj\aspnet\modulo9\ExercicioUm\ExercicioUm\obj\Debug\netcoreapp3.1\ExercicioUm.AssemblyInfo.cs
+C:\proj\aspnet\modulo9\ExercicioUm\ExercicioUm\obj\Debug\netcoreapp3.1\ExercicioUm.csproj.CoreCompileInputs.cache
+C:\proj\aspnet\modulo9\ExercicioUm\ExercicioUm\obj\Debug\netcoreapp3.1\ExercicioUm.dll
+C:\proj\aspnet\modulo9\ExercicioUm\ExercicioUm\obj\Debug\netcoreapp3.1\ExercicioUm.pdb
+C:\proj\aspnet\modulo9\ExercicioUm\ExercicioUm\obj\Debug\netcoreapp3.1\ExercicioUm.genruntimeconfig.cache

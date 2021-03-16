@@ -1,0 +1,13 @@
+C:\proj\aspnet\modulo9\AulaStringbuilder\AulaStringbuilder\bin\Debug\netcoreapp3.1\AulaStringbuilder.exe
+C:\proj\aspnet\modulo9\AulaStringbuilder\AulaStringbuilder\bin\Debug\netcoreapp3.1\AulaStringbuilder.deps.json
+C:\proj\aspnet\modulo9\AulaStringbuilder\AulaStringbuilder\bin\Debug\netcoreapp3.1\AulaStringbuilder.runtimeconfig.json
+C:\proj\aspnet\modulo9\AulaStringbuilder\AulaStringbuilder\bin\Debug\netcoreapp3.1\AulaStringbuilder.runtimeconfig.dev.json
+C:\proj\aspnet\modulo9\AulaStringbuilder\AulaStringbuilder\bin\Debug\netcoreapp3.1\AulaStringbuilder.dll
+C:\proj\aspnet\modulo9\AulaStringbuilder\AulaStringbuilder\bin\Debug\netcoreapp3.1\AulaStringbuilder.pdb
+C:\proj\aspnet\modulo9\AulaStringbuilder\AulaStringbuilder\obj\Debug\netcoreapp3.1\AulaStringbuilder.csprojAssemblyReference.cache
+C:\proj\aspnet\modulo9\AulaStringbuilder\AulaStringbuilder\obj\Debug\netcoreapp3.1\AulaStringbuilder.AssemblyInfoInputs.cache
+C:\proj\aspnet\modulo9\AulaStringbuilder\AulaStringbuilder\obj\Debug\netcoreapp3.1\AulaStringbuilder.AssemblyInfo.cs
+C:\proj\aspnet\modulo9\AulaStringbuilder\AulaStringbuilder\obj\Debug\netcoreapp3.1\AulaStringbuilder.csproj.CoreCompileInputs.cache
+C:\proj\aspnet\modulo9\AulaStringbuilder\AulaStringbuilder\obj\Debug\netcoreapp3.1\AulaStringbuilder.dll
+C:\proj\aspnet\modulo9\AulaStringbuilder\AulaStringbuilder\obj\Debug\netcoreapp3.1\AulaStringbuilder.pdb
+C:\proj\aspnet\modulo9\AulaStringbuilder\AulaStringbuilder\obj\Debug\netcoreapp3.1\AulaStringbuilder.genruntimeconfig.cache

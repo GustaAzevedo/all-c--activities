@@ -1,0 +1,13 @@
+C:\proj\aspnet\modulo9\modulo9\bin\Debug\netcoreapp3.1\modulo9.exe
+C:\proj\aspnet\modulo9\modulo9\bin\Debug\netcoreapp3.1\modulo9.deps.json
+C:\proj\aspnet\modulo9\modulo9\bin\Debug\netcoreapp3.1\modulo9.runtimeconfig.json
+C:\proj\aspnet\modulo9\modulo9\bin\Debug\netcoreapp3.1\modulo9.runtimeconfig.dev.json
+C:\proj\aspnet\modulo9\modulo9\bin\Debug\netcoreapp3.1\modulo9.dll
+C:\proj\aspnet\modulo9\modulo9\bin\Debug\netcoreapp3.1\modulo9.pdb
+C:\proj\aspnet\modulo9\modulo9\obj\Debug\netcoreapp3.1\modulo9.csprojAssemblyReference.cache
+C:\proj\aspnet\modulo9\modulo9\obj\Debug\netcoreapp3.1\modulo9.AssemblyInfoInputs.cache
+C:\proj\aspnet\modulo9\modulo9\obj\Debug\netcoreapp3.1\modulo9.AssemblyInfo.cs
+C:\proj\aspnet\modulo9\modulo9\obj\Debug\netcoreapp3.1\modulo9.csproj.CoreCompileInputs.cache
+C:\proj\aspnet\modulo9\modulo9\obj\Debug\netcoreapp3.1\modulo9.dll
+C:\proj\aspnet\modulo9\modulo9\obj\Debug\netcoreapp3.1\modulo9.pdb
+C:\proj\aspnet\modulo9\modulo9\obj\Debug\netcoreapp3.1\modulo9.genruntimeconfig.cache
