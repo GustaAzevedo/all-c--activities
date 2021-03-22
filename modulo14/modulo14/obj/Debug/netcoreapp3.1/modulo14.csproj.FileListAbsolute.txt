@@ -1,0 +1,13 @@
+C:\proj\aspnet\modulo14\modulo14\bin\Debug\netcoreapp3.1\modulo14.exe
+C:\proj\aspnet\modulo14\modulo14\bin\Debug\netcoreapp3.1\modulo14.deps.json
+C:\proj\aspnet\modulo14\modulo14\bin\Debug\netcoreapp3.1\modulo14.runtimeconfig.json
+C:\proj\aspnet\modulo14\modulo14\bin\Debug\netcoreapp3.1\modulo14.runtimeconfig.dev.json
+C:\proj\aspnet\modulo14\modulo14\bin\Debug\netcoreapp3.1\modulo14.dll
+C:\proj\aspnet\modulo14\modulo14\bin\Debug\netcoreapp3.1\modulo14.pdb
+C:\proj\aspnet\modulo14\modulo14\obj\Debug\netcoreapp3.1\modulo14.csprojAssemblyReference.cache
+C:\proj\aspnet\modulo14\modulo14\obj\Debug\netcoreapp3.1\modulo14.AssemblyInfoInputs.cache
+C:\proj\aspnet\modulo14\modulo14\obj\Debug\netcoreapp3.1\modulo14.AssemblyInfo.cs
+C:\proj\aspnet\modulo14\modulo14\obj\Debug\netcoreapp3.1\modulo14.csproj.CoreCompileInputs.cache
+C:\proj\aspnet\modulo14\modulo14\obj\Debug\netcoreapp3.1\modulo14.dll
+C:\proj\aspnet\modulo14\modulo14\obj\Debug\netcoreapp3.1\modulo14.pdb
+C:\proj\aspnet\modulo14\modulo14\obj\Debug\netcoreapp3.1\modulo14.genruntimeconfig.cache

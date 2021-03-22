@@ -9,7 +9,7 @@ namespace modulo10.aulaSeisExerc
 {
     class Programa
     {
-        static void Main()
+        static void x()
         {
             List<Shape> list = new List<Shape>();
             Console.WriteLine("Enter the number of shapes: ");
