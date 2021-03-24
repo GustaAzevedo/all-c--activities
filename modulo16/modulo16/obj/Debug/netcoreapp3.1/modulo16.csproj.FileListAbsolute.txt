@@ -1,0 +1,13 @@
+C:\proj\aspnet\modulo16\modulo16\bin\Debug\netcoreapp3.1\modulo16.exe
+C:\proj\aspnet\modulo16\modulo16\bin\Debug\netcoreapp3.1\modulo16.deps.json
+C:\proj\aspnet\modulo16\modulo16\bin\Debug\netcoreapp3.1\modulo16.runtimeconfig.json
+C:\proj\aspnet\modulo16\modulo16\bin\Debug\netcoreapp3.1\modulo16.runtimeconfig.dev.json
+C:\proj\aspnet\modulo16\modulo16\bin\Debug\netcoreapp3.1\modulo16.dll
+C:\proj\aspnet\modulo16\modulo16\bin\Debug\netcoreapp3.1\modulo16.pdb
+C:\proj\aspnet\modulo16\modulo16\obj\Debug\netcoreapp3.1\modulo16.csprojAssemblyReference.cache
+C:\proj\aspnet\modulo16\modulo16\obj\Debug\netcoreapp3.1\modulo16.AssemblyInfoInputs.cache
+C:\proj\aspnet\modulo16\modulo16\obj\Debug\netcoreapp3.1\modulo16.AssemblyInfo.cs
+C:\proj\aspnet\modulo16\modulo16\obj\Debug\netcoreapp3.1\modulo16.csproj.CoreCompileInputs.cache
+C:\proj\aspnet\modulo16\modulo16\obj\Debug\netcoreapp3.1\modulo16.dll
+C:\proj\aspnet\modulo16\modulo16\obj\Debug\netcoreapp3.1\modulo16.pdb
+C:\proj\aspnet\modulo16\modulo16\obj\Debug\netcoreapp3.1\modulo16.genruntimeconfig.cache
